@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About me: </h3>
 
-- 💼 &nbsp; Software Developer and AI Researcher.
+- 💼 &nbsp; Software Engineer and AI Researcher.
 - 🎓 &nbsp; Luther College Class '2023 with a double major in Computer Science and Mathematics.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
