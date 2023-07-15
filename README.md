@@ -44,6 +44,7 @@
 
 <p align="center">
 <a href="https://github.com/Kritibs">
+  <a href="http://www.github.com/Kritibs"><img src="https://github-readme-stats.vercel.app/api?username=Kritibs&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Kritibs's GitHub stats" /></a>
   ![Kritibs's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kritibs&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
   ![Kritib's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kritibs&hide_progress=true)
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
