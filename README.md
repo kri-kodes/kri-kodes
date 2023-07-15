@@ -46,6 +46,7 @@
 <a href="https://github.com/Kritibs">
   ![Kritibs's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kritibs&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
   ![Kritib's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kritibs&hide_progress=true)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 </a>
 </p>
 
