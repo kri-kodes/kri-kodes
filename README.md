@@ -36,8 +36,8 @@
   ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
   ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
   ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+  
+  ![Kritibs's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kritibs&show_icons=true&theme=radical)
   
 
 
@@ -46,7 +46,7 @@
 
 
 
-  <a href="http://www.github.com/Kritibs"><img src="https://github-readme-stats.vercel.app/api?username=Kritibs&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Kritibs's GitHub stats" /></a>
+ 
 <a href="https://github.com/Kritibs"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kritibs&langs_count=5&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
